@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Arduino/main"
+		},
+		{
+			"name": "Watering",
+			"path": "../Watering"
+		},
+		{
+			"name": "WateringReceiver",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
